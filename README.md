@@ -9,4 +9,5 @@
 
 ## [MCP Servers](mcp-servers)
 - [Simple RUST Server](https://github.com/agenticsdv/mcp/mcp-servers/simple-rust-server)
-- [SocketCAN Server](https://github.com/agenticsdv/mcp/mcp-servers/mcp-servers/socketcan-mcp-server)
+- [SocketCAN MCP Server](https://github.com/agenticsdv/mcp/mcp-servers/mcp-servers/socketcan-mcp-server)
+- [SOME/IP MCP Server](https://github.com/agenticsdv/mcp/mcp-servers/mcp-servers/someip-mcp-server)
