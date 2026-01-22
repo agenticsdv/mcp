@@ -7,4 +7,4 @@
 
 > Click here for [reference code](https://github.com/agenticsdv/mcp/tree/main/mcp-servers/simple-rust-server)
 
-> Refer this for more examples : https://github.com/modelcontextprotocol/rust-sdk/tree/main/examples
+> Refer this [official sdk - examples](https://github.com/modelcontextprotocol/rust-sdk/tree/main/examples) 
