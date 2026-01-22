@@ -8,5 +8,5 @@
 - [Challenges and Solutions](challenges.md)
 
 ## [MCP Servers](mcp-servers)
-- [Simple RUST Server](mcp-servers/simple-rust-server)
-- [SocketCAN Server](mcp-servers/socketcan-mcp-server)
+- [Simple RUST Server](https://github.com/agenticsdv/mcp/mcp-servers/simple-rust-server)
+- [SocketCAN Server](https://github.com/agenticsdv/mcp/mcp-servers/mcp-servers/socketcan-mcp-server)
