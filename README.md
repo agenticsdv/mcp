@@ -8,6 +8,6 @@
 - [Challenges and Solutions](challenges.md)
 
 ## [MCP Servers](mcp-servers)
-- [Simple RUST Server](https://github.com/agenticsdv/mcp/tree/main/mcp-servers/simple-rust-server)
-- [SocketCAN MCP Server](https://github.com/agenticsdv/mcp/tree/main/mcp-servers/mcp-servers/socketcan-mcp-server)
-- [SOME/IP MCP Server](https://github.com/agenticsdv/mcp/tree/main/mcp-servers/mcp-servers/someip-mcp-server)
+- [Simple RUST Server](mcp-servers/simple-rust-server)
+- [SocketCAN MCP Server](mcp-servers/socketcan-mcp-server)
+- [SOME/IP MCP Server](mcp-servers/someip-mcp-server)
