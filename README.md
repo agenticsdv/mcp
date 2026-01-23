@@ -9,5 +9,4 @@
 
 ## [MCP Servers](mcp-servers)
 - [Simple RUST Server](mcp-servers/simple-rust-server)
-- [SocketCAN MCP Server](mcp-servers/socketcan-mcp-server)
-- [SOME/IP MCP Server](mcp-servers/someip-mcp-server)
+
