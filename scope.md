@@ -1,9 +1,7 @@
 ## MCP Servers / MCP Tools
-- SOME/IP MCP
-- SocketCAN MCP
-- VSS MCP (Can be merged with Telemetry/V2C MCP)
-- Telemetry MCP (Vehilce to Cloud, Publish Vehicle Data Streams)
-- VHAL/Vehicle Info MCP (To Retrieve vehicle info using Android VHAL or other methods like services/CAN Signals)
+- Vehicle Services MCP (e.g. via SOME/IP)
+- Vehicle Signals MCP (e.g. via CANBus or VHAL)
+- Telemetry MCP (Vehilce to Cloud, Publish Vehicle Data Streams using payloads like VSS )
 - Digital Twin MCP (interfacing Digital.auto or similar services)
 - Navigation MCP (using services like Google Map API, HERE APIs or Tomtom APIs)
 - Multimedia MCP
@@ -16,3 +14,4 @@
 - Diagnostic Agent
 - Inter Zone Aggregator
 - Fleet Management
+
